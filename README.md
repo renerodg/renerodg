@@ -2,7 +2,7 @@
 
 Mexican living in Chile
 
-I am a 28-year-old QA tester pursuing a career in quality assurance. Over the past few years, I've built my portfolio through projects that develop a wide range of skills, from manual testing and the software development lifecycle to automated testing with Python. I am currently involved in several QA projects, expanding my experience in QA Automation with a focus on Python.
+I am a 28-year-old QA tester pursuing a career in quality assurance. I've built my portfolio through projects that develop a wide range of skills, from manual testing and bug tracking to automated testing with Python. I am currently involved in several QA projects, expanding my experience in QA Automation with a focus on Python.
 
 ### My Skill Set:
 - Functional and UI Software Testing
