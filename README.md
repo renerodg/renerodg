@@ -17,7 +17,7 @@ Feel free to explore my projects and connect with me!
 
 **Every project below is opened in Google Docs, except for Project 7 and Project 8, those will redirect to the GitHub repository in my profile.**
 
-[Project 1 - Regression Testing](https://docs.google.com/document/d/1qKCLoay8SRxqZMPjhwVPnYGx9W2UnNGU/edit)
+[Project 1 - Functional Testing](https://docs.google.com/document/d/1qKCLoay8SRxqZMPjhwVPnYGx9W2UnNGU/edit)
 
 [Project 2 - Test Design](https://docs.google.com/document/d/134Rpi2-aU3H0BdntM9ysai5943nwxzBH/edit?usp=sharing&ouid=108544210866823258605&rtpof=true&sd=true)
 
