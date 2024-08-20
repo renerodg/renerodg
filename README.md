@@ -1,5 +1,7 @@
 # Hi there! I'm René Rodriguez 👋
-Mexican 🇲🇽 living in Chile 🇨🇱
+
+Mexican :flag_mx: living in Chile :flag_cl: 
+
 I am a 28-year-old QA tester pursuing a career in quality assurance. Over the past few years, I've built my portfolio through projects that develop a wide range of skills, from manual testing and the software development lifecycle to automated testing with Python. I am currently involved in several QA projects, expanding my experience in QA Automation with a focus on Python.
 
 ### My Skill Set:
@@ -13,7 +15,8 @@ I am a 28-year-old QA tester pursuing a career in quality assurance. Over the pa
 
 Feel free to explore my projects and connect with me!
 
-Every project below is opened in Google Docs, except for Project 7 and Project 8, those will redirect to the GitHub repository in my profile.
+**Every project below is opened in Google Docs, except for Project 7 and Project 8, those will redirect to the GitHub repository in my profile.**
+
 [Project 1 - Regression Testing](https://docs.google.com/document/d/1qKCLoay8SRxqZMPjhwVPnYGx9W2UnNGU/edit)
 
 [Project 2 - Test Design](https://docs.google.com/document/d/134Rpi2-aU3H0BdntM9ysai5943nwxzBH/edit?usp=sharing&ouid=108544210866823258605&rtpof=true&sd=true)
